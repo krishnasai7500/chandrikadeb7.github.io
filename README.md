@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div align="center">
   <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
@@ -76,3 +77,6 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 =======
 # chandrikadeb7.github.io
 >>>>>>> b5ba676f525d35488d7e260af782e610924e529b
+=======
+# chandrikadeb7.github.io
+>>>>>>> 03cb14ac6387c01220de73905a486f513cc0d6ef
