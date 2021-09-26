@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img alt="Logo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/logo.png" width="100" />
 </div>
@@ -72,3 +73,6 @@ Yes, you can fork this repo. Please give proper credit by linking back to [britt
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+=======
+# chandrikadeb7.github.io
+>>>>>>> b5ba676f525d35488d7e260af782e610924e529b
