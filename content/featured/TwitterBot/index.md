@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'GirlScript Twitter Bot'
+title: 'ChatBot'
 cover: 'chatbot.png'
 github: 'https://github.com/krishnasai7500/-Dialogflow-Weather-API-Using-Flask-and-Ngrok-server'
 external: 'https://github.com/krishnasai7500/-Dialogflow-Weather-API-Using-Flask-and-Ngrok-server'
